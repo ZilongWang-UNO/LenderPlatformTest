@@ -1,5 +1,0 @@
-<map id="com.wecareinsurance.controllers.CustomerController.getCustomerByVin" name="com.wecareinsurance.controllers.CustomerController.getCustomerByVin">
-<area shape="rect" id="node1" title=" " alt="" coords="7,5,252,51"/>
-<area shape="rect" id="node3" href="$classcom_1_1wecareinsurance_1_1dao_1_1_customer_dao.html#ad43ed957dc403990c90b44eb0c587d73" title=" " alt="" coords="303,5,516,51"/>
-<area shape="rect" id="node5" href="$interfacecom_1_1wecareinsurance_1_1dal_1_1_database_access.html#a82ba7695f466dd5434f896b16c58b897" title=" " alt="" coords="565,5,739,51"/>
-</map>
