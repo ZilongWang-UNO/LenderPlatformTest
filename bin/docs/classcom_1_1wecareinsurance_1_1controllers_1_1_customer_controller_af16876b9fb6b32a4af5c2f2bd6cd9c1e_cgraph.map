@@ -1,0 +1,6 @@
+<map id="com.wecareinsurance.controllers.CustomerController.createCustomer" name="com.wecareinsurance.controllers.CustomerController.createCustomer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,235,86"/>
+<area shape="rect" id="node3" href="$classcom_1_1wecareinsurance_1_1dao_1_1_customer_dao.html#aecafc62b84136f5cb3725992aa61dd52" title=" " alt="" coords="283,39,480,86"/>
+<area shape="rect" id="node5" href="$classcom_1_1wecareinsurance_1_1models_1_1_customer.html#ad6ccc3e166dd756cb94b4eddc68415f0" title=" " alt="" coords="537,5,735,51"/>
+<area shape="rect" id="node7" href="$interfacecom_1_1wecareinsurance_1_1dal_1_1_database_access.html#aeb0b508f3c76169bba55a429c69a09df" title=" " alt="" coords="529,74,743,121"/>
+</map>
